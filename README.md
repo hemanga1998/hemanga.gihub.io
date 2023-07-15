@@ -20,7 +20,7 @@
   <main>
     <section>
       <h2>About Me</h2>
-      <p>Hello, I'm John Doe. This is an advanced website created using HTML, CSS, and JavaScript.</p>
+      <p>Hello, I'm Hemanga Tahbildar. This is my website.</p>
     </section>
 
     <section>
